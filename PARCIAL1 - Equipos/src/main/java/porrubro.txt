@@ -1,0 +1,30 @@
+Codigo Pieza: KS00000807, Codigo CatÃ¡logo:  17.1.1   Gears New Conventional PC/LCV  Valor en stock: 21150
+Codigo Pieza: KS00000776, Codigo CatÃ¡logo:  17.1.2   Gears New Modern PC/LCV  Valor en stock: 28530
+Codigo Pieza: 8399110591, Codigo CatÃ¡logo:  17.1.3   Gears New Conventional HCV  Valor en stock: 1882
+Codigo Pieza: KS01000819, Codigo CatÃ¡logo:  17.2.1   Gears BX Conventional PC/LCV  Valor en stock: 26110
+Codigo Pieza: KS01000746, Codigo CatÃ¡logo:  17.2.2   Gears BX Modern PC/LCV  Valor en stock: 7851
+Codigo Pieza: KS00000001, Codigo CatÃ¡logo:  17.3.1   Pumps New PC  Valor en stock: 16780
+Codigo Pieza: KS00000002, Codigo CatÃ¡logo:  17.3.2   Pumps New HCV  Valor en stock: 6034
+Codigo Pieza: KS01000067, Codigo CatÃ¡logo:  17.4.1   Pumps BX PC  Valor en stock: 6118
+Codigo Pieza: KS01000396, Codigo CatÃ¡logo:  17.4.2   Pumps BX HCV  Valor en stock: 2034
+Codigo Pieza: 3032472343, Codigo CatÃ¡logo:  17.6.2   Rest New HCV  Valor en stock: 2484
+Codigo Pieza: KS00000807, Codigo Catálogo:  17.1.1   Gears New Conventional PC/LCV  Valor en stock: 21150
+Codigo Pieza: KS00000776, Codigo Catálogo:  17.1.2   Gears New Modern PC/LCV  Valor en stock: 28530
+Codigo Pieza: 8399110591, Codigo Catálogo:  17.1.3   Gears New Conventional HCV  Valor en stock: 1882
+Codigo Pieza: KS01000819, Codigo Catálogo:  17.2.1   Gears BX Conventional PC/LCV  Valor en stock: 26110
+Codigo Pieza: KS01000746, Codigo Catálogo:  17.2.2   Gears BX Modern PC/LCV  Valor en stock: 7851
+Codigo Pieza: KS00000001, Codigo Catálogo:  17.3.1   Pumps New PC  Valor en stock: 16780
+Codigo Pieza: KS00000002, Codigo Catálogo:  17.3.2   Pumps New HCV  Valor en stock: 6034
+Codigo Pieza: KS01000067, Codigo Catálogo:  17.4.1   Pumps BX PC  Valor en stock: 6118
+Codigo Pieza: KS01000396, Codigo Catálogo:  17.4.2   Pumps BX HCV  Valor en stock: 2034
+Codigo Pieza: 3032472343, Codigo Catálogo:  17.6.2   Rest New HCV  Valor en stock: 2484
+Codigo Pieza: KS00000807, Codigo Catálogo:  17.1.1   Gears New Conventional PC/LCV  Valor en stock: 21150
+Codigo Pieza: KS00000776, Codigo Catálogo:  17.1.2   Gears New Modern PC/LCV  Valor en stock: 28530
+Codigo Pieza: 8399110591, Codigo Catálogo:  17.1.3   Gears New Conventional HCV  Valor en stock: 1882
+Codigo Pieza: KS01000819, Codigo Catálogo:  17.2.1   Gears BX Conventional PC/LCV  Valor en stock: 26110
+Codigo Pieza: KS01000746, Codigo Catálogo:  17.2.2   Gears BX Modern PC/LCV  Valor en stock: 7851
+Codigo Pieza: KS00000001, Codigo Catálogo:  17.3.1   Pumps New PC  Valor en stock: 16780
+Codigo Pieza: KS00000002, Codigo Catálogo:  17.3.2   Pumps New HCV  Valor en stock: 6034
+Codigo Pieza: KS01000067, Codigo Catálogo:  17.4.1   Pumps BX PC  Valor en stock: 6118
+Codigo Pieza: KS01000396, Codigo Catálogo:  17.4.2   Pumps BX HCV  Valor en stock: 2034
+Codigo Pieza: 3032472343, Codigo Catálogo:  17.6.2   Rest New HCV  Valor en stock: 2484
